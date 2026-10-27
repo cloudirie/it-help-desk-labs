@@ -1,0 +1,30 @@
+Help Desk Lab 4: Windows Account Lockout Troubleshooting
+Ticket ID: LAB-004
+Category: Account Access / Authentication
+Environment: Windows account — simulated help desk lab
+Status: Resolved
+
+Issue Description
+The user was unable to access their Windows account because the account was locked.
+
+Troubleshooting Performed
+Verified the account status.
+Confirmed that the account was locked.
+Unlocked the Windows account using the appropriate recovery procedure.
+Had the user attempt to sign in again.
+Resolution
+The Windows account was unlocked successfully. The user was able to sign in, confirming that the issue was resolved.
+
+Final Outcome
+Resolved. The user regained access to their Windows account.
+
+Skills Practiced
+Account status verification
+Windows account lockout troubleshooting
+Account recovery procedures
+User access verification
+Help desk ticket documentation
+Lab Type: Simulated troubleshooting exercise for IT support training.
+
+Note: This ticket documents a training simulation, not a real-world support incident.
+
