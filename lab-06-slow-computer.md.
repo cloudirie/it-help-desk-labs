@@ -1,0 +1,74 @@
+Help Desk Lab 6: Slow Computer Troubleshooting
+Ticket ID: LAB-006
+Category: Windows Performance / Troubleshooting
+Environment: Simulated Windows 11 help desk lab
+Status: Resolved in the initial scenario
+Lab Type: Simulated training exercise
+
+1. Issue Description
+The user reported that their computer was running slowly, applications were taking longer than usual to open, and the computer occasionally froze for a few seconds.
+
+2. Initial Assessment
+Asked the user when the issue began and whether it affected one application or multiple applications.
+
+Reviewed the simulated Task Manager readings:
+
+Resource
+
+Usage
+
+CPU
+
+24%
+
+Memory
+
+88%
+
+Disk
+
+12%
+
+Finding: Memory usage was high, making memory pressure a reasonable area to investigate. These readings alone did not prove the root cause.
+
+3. Troubleshooting Steps
+Gathered information about the symptoms and affected applications.
+Reviewed CPU, memory, and disk utilization in the simulated Task Manager.
+Identified Google Chrome as a significant memory consumer, using approximately 3.2 GB.
+Asked the user about browser activity and identified 18 open Chrome processes.
+Confirmed the user saved their important form before closing unnecessary browser tabs.
+Rechecked performance after the user closed the unnecessary tabs.
+Confirmed memory usage decreased from 88% to 67%.
+Asked the user to verify whether application responsiveness and freezing had improved.
+Discussed how to respond if the problem returned: review the ticket history, reassess current performance, and troubleshoot using new evidence rather than assuming the cause.
+4. Resolution and Verification
+After unnecessary browser tabs were closed, simulated memory usage decreased from 88% to 67%. The user reported that applications opened faster and the computer froze less often.
+
+Resolution: Closing unnecessary browser tabs after saving important work coincided with improved performance.
+
+Verification: The user confirmed improved responsiveness in the simulated scenario.
+
+5. Follow-Up Plan
+If the slowdown returns:
+
+Review the previous ticket and troubleshooting history.
+Recheck current CPU, memory, and disk usage.
+Identify which processes are consuming resources at that time.
+Investigate other possible causes if resource usage does not explain the symptoms.
+Document new findings, actions taken, and the outcome.
+Do not assume the original cause is still responsible for a recurring issue.
+
+6. Final Outcome
+Resolved in the initial simulated scenario. Performance improved after unnecessary browser tabs were closed. A recurring slowdown would require reassessment and additional troubleshooting.
+
+7. Skills Practiced
+Windows Task Manager and resource monitoring
+CPU, memory, and disk utilization
+Identifying resource-intensive applications
+Asking diagnostic questions
+Protecting unsaved user work
+Verifying resolution with the user
+Handling recurring incidents
+Professional help desk ticket documentation
+Training disclaimer: This ticket describes a simulated training exercise, not a real workplace incident.
+
