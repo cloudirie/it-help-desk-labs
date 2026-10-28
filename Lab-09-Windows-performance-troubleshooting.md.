@@ -1,0 +1,42 @@
+Help Desk Lab 9: Windows Performance Troubleshooting
+1. Incident Summary
+Issue: Windows computer running slowly
+Category: Windows Performance
+Priority: Normal
+Environment: Windows 11 (simulated lab)
+Status: Troubleshooting plan identified; resolution requires verification
+2. User-Reported Symptoms
+The user reported slow computer performance. During troubleshooting, disk utilization fluctuated between approximately 52% and 91%. Windows Modules Installer was observed, and Windows displayed a prompt requesting a restart.
+
+3. Troubleshooting Performed
+Opened Task Manager to monitor disk utilization.
+Observed fluctuating disk usage between approximately 52% and 91%.
+Attempted to identify the process responsible for the highest disk usage; the exact process was not confirmed.
+Observed Windows Modules Installer and a pending restart notification.
+Selected the safe next step: save the user’s work, coordinate and perform the restart when appropriate, then reassess system performance.
+4. Resolution Plan
+Ensure all user work is saved.
+Complete the requested restart when it is safe to do so.
+Allow Windows updates or servicing operations to complete.
+Reopen Task Manager and monitor disk utilization.
+Identify the process responsible if high disk usage persists.
+Confirm that system responsiveness has improved.
+Escalate if the issue continues after appropriate troubleshooting.
+5. Root Cause
+Not yet confirmed. Windows servicing activity may have contributed to elevated disk usage, but additional investigation is required to establish the root cause.
+
+6. Final Status
+Troubleshooting decision: Correct
+Restart: Recommended; completion not verified
+Performance improvement: Not yet verified
+Ticket status: Pending verification
+7. Skills Demonstrated
+Windows Task Manager
+Disk utilization monitoring
+Basic Windows update troubleshooting
+Safe restart procedures
+Process identification
+Incident documentation
+Root cause analysis and escalation
+8. Key Takeaway
+High disk utilization does not automatically indicate hardware failure or operating system corruption. A help desk technician should investigate the evidence, take safe corrective action, verify the outcome, and document any unresolved issues.
